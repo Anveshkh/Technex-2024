@@ -1,0 +1,6 @@
+tensorflow
+tensorflow_hub
+opencv-python
+imageio
+git+https://github.com/tensorflow/docs
+IPython
